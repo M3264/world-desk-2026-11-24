@@ -1,6 +1,8 @@
 # World Desk · 24 November 2026
 
 [![Make.fun bounty](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124)
+[![Live rank](https://make.fun/badge/news-image-20261124/M3264/world-desk-2026-11-24/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard)
+[![Reward](https://make.fun/badge/news-image-20261124/M3264/world-desk-2026-11-24/reward.svg)](https://make.fun/bounty/news-image-20261124)
 
 A single illustrated front page for Tuesday, 24 November 2026. The drawings are original editorial illustrations, not photographs or reconstructions. [Reporting and dates](SOURCES.md).
 
